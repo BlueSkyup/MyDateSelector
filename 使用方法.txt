@@ -1,0 +1,7 @@
+复制上述文件到工程中   
+
+  selector = new MyDateSelector(this);
+        selector.initPopWindow();
+        selector.show(findViewById(R.id.main));  
+		
+		可设置  确定和取消按钮的监听
